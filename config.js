@@ -59,14 +59,14 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "Mail",
-      icon: "mail",
-      link: "https://mail.protonmail.com/",
+      name: "Keyboard",
+      icon: "keyboard",
+      link: "https://monkeytype.com/",
     },
     {
       id: "5",
       name: "Todoist",
-      icon: "trello",
+      icon: "list-todo",
       link: "https://todoist.com",
     },
     // {
