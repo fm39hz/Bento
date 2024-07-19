@@ -64,7 +64,7 @@ const CONFIG = {
       link: "https://mail.protonmail.com/",
     },
     {
-      id: "3",
+      id: "5",
       name: "Todoist",
       icon: "trello",
       link: "https://todoist.com",
