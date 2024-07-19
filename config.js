@@ -142,10 +142,6 @@ const CONFIG = {
           name: "Linkedin",
           link: "https://www.linkedin.com",
         },
-        // {
-        //   name: "Classic",
-        //   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        // },
       ],
     },
     {
