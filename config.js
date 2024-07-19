@@ -69,24 +69,24 @@ const CONFIG = {
       icon: "trello",
       link: "https://todoist.com",
     },
-    {
-      id: "4",
-      name: "Calendar",
-      icon: "calendar",
-      link: "https://calendar.google.com/calendar/r",
-    },
-    {
-      id: "5",
-      name: "Reddit",
-      icon: "glasses",
-      link: "https://reddit.com",
-    },
-    {
-      id: "6",
-      name: "Odysee",
-      icon: "youtube",
-      link: "https://odysee.com/",
-    },
+    // {
+    //   id: "4",
+    //   name: "Calendar",
+    //   icon: "calendar",
+    //   link: "https://calendar.google.com/calendar/r",
+    // },
+    // {
+    //   id: "5",
+    //   name: "Reddit",
+    //   icon: "glasses",
+    //   link: "https://reddit.com",
+    // },
+    // {
+    //   id: "6",
+    //   name: "Odysee",
+    //   icon: "youtube",
+    //   link: "https://odysee.com/",
+    // },
   ],
 
   secondButtonsContainer: [
@@ -139,21 +139,13 @@ const CONFIG = {
       id: "1",
       links: [
         {
-          name: "Inspirational",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          name: "Linkedin",
+          link: "https://www.linkedin.com",
         },
-        {
-          name: "Classic",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        },
-        {
-          name: "Oldies",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        },
-        {
-          name: "Rock",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        },
+        // {
+        //   name: "Classic",
+        //   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        // },
       ],
     },
     {
@@ -161,20 +153,12 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "Linkedin",
-          link: "https://www.linkedin.com",
+          name: "Fuck Machine",
+          link: "https://www.reddit.com/r/unixporn/",
         },
         {
-          name: "Dribbble",
-          link: "https://www.dribbble.com",
-        },
-        {
-          name: "Trello",
-          link: "https://www.trello.com",
-        },
-        {
-          name: "Slack",
-          link: "https://www.slack.com",
+          name: "I used Arch Btw",
+          link: "https://www.reddit.com/r/archlinux/",
         },
       ],
     },
