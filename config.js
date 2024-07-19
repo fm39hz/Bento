@@ -142,6 +142,10 @@ const CONFIG = {
           name: "Linkedin",
           link: "https://www.linkedin.com",
         },
+        {
+          name: "Gmail",
+          link: "https://mail.google.com",
+        },
       ],
     },
     {
